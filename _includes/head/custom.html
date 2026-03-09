@@ -2,10 +2,13 @@
 
 <!-- start custom head snippets -->
 
+<!-- Font Awesome 6 via CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
+<!-- favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
@@ -13,5 +16,32 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
+
+<style>
+/* 链接默认无下划线，hover 才显示 */
+a { text-decoration: none !important; }
+a:hover { text-decoration: underline !important; }
+
+/* Brand-colored sidebar icons */
+.author__urls li a .fa-envelope       { color: #7b7776; }
+.author__urls li a .fa-location-dot   { color: #2f7f93; }
+.author__urls li a .fa-github         { color: #333;    }
+.author__urls li a .fa-linkedin       { color: #0a66c2; }
+.author__urls li a .fa-x-twitter      { color: #000;    }
+.author__urls li .ai-orcid            { color: #a6ce39; }
+.author__urls li .ai-google-scholar   { color: #2f7f93; }
+
+/* Thinner heading font weight */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.section-title { font-weight: 500; letter-spacing: -0.01em; }
+.page__footer { display: none !important; }
+/* Author name in sidebar */
+.author__name { font-weight: 600; font-size: 1.1em; }
+
+/* Masthead title */
+.masthead__menu-item--lg a { font-weight: 600; color: #2f7f93 !important; }
+</style>
 
 <!-- end custom head snippets -->

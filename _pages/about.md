@@ -21,12 +21,12 @@ redirect_from:
 .cv-btn {
   display: inline-block;
   margin: 12px 0 20px 0;
-  padding: 8px 20px;
+  padding: 5px 14px;
   background-color: #2c7be5;
   color: #fff !important;
   border-radius: 5px;
   font-weight: bold;
-  font-size: 0.95em;
+  font-size: 0.82em;
   text-decoration: none !important;
   transition: background-color 0.2s;
 }
@@ -65,8 +65,8 @@ redirect_from:
 }
 .edu-img {
   flex-shrink: 0;
-  width: 80px;
-  height: 70px;
+  width: 100px;
+  height: 88px;
   object-fit: contain;
   object-position: center;
 }
@@ -80,7 +80,7 @@ redirect_from:
   font-weight: bold;
   margin-top: 1.5em;
   margin-bottom: 0.8em;
-  border-bottom: 2px solid #ddd;
+  border-bottom: 1px solid #ddd;
   padding-bottom: 4px;
 }
 .oral-badge {
@@ -113,6 +113,7 @@ redirect_from:
   color: #444;
   line-height: 1.5;
 }
+
 </style>
 
 Jiafan Liu received her Master's degree from [Nanyang Technological University, Singapore](https://www.ntu.edu.sg) in June 2025, advised by [Prof. Alex Kot](https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex). She is fortunate to have internships and collaborations with [SIAT, CAS](https://www.siat.ac.cn/), supervised by [Prof. Ruxin Wang](https://people.ucas.edu.cn/~rxwang) and [Westlake University](https://www.westlake.edu.cn/), supervised by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN), [Dr. Cheng Tan](https://chengtan9907.github.io/). After a GAP half year, she decided to pursue her academic dream and she is actively looking for RA or PhD positions opening from now!
@@ -136,9 +137,9 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
   </div>
 </div>
 
-<a class="cv-btn" href="../files/CV_JiafanLiu.pdf" download>📄 Download CV</a>
 
----
+<a class="cv-btn" href="/files/JiafanLiu-Resume.pdf" target="_blank" rel="noopener">📄 Download CV</a>
+
 
 <div class="section-title">Publications</div>
 
@@ -182,7 +183,6 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
   </div>
 </div>
 
----
 
 <div class="section-title">Education</div>
 
@@ -206,7 +206,6 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
   </div>
 </div>
 
----
 
 <div class="section-title">Internship</div>
 
@@ -240,7 +239,6 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
   </div>
 </div>
 
----
 
 <div class="section-title">Awards</div>
 
