@@ -159,7 +159,7 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
   <div class="pub-text">
     <strong>A Comprehensive Body Part Adaptive Human Motion Style Transfer Method</strong><br>
     <strong>Jiafan Liu</strong><br>
-    [<strong>Master Dissertation</strong>], 2025<br>
+    [Master Dissertation], 2025<br>
     <a href="https://dr.ntu.edu.sg/entities/publication/55bcfdb5-1276-45bf-aac5-355857bd9807">Paper</a>
   </div>
 </div>
