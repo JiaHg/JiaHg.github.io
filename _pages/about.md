@@ -116,23 +116,23 @@ redirect_from:
 
 </style>
 
-Jiafan Liu received her Master's degree from [Nanyang Technological University, Singapore](https://www.ntu.edu.sg) in June 2025, advised by [Prof. Alex Kot](https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex). She is fortunate to have internships and collaborations with [SIAT, CAS](https://www.siat.ac.cn/), supervised by [Prof. Ruxin Wang](https://people.ucas.edu.cn/~rxwang) and [Westlake University](https://www.westlake.edu.cn/), supervised by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN), [Dr. Cheng Tan](https://chengtan9907.github.io/). After a GAP half year, she decided to pursue her academic dream and she is actively looking for RA or PhD positions opening from now!
+Jiafan Liu received her Master's degree from [Nanyang Technological University, Singapore](https://www.ntu.edu.sg) in June 2025, advised by [Prof. Alex Kot](https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex). She is fortunate to have internships and collaborations with [SIAT, CAS](https://www.siat.ac.cn/) supervised by [Prof. Ruxin Wang](https://people.ucas.edu.cn/~rxwang) and [Westlake University](https://www.westlake.edu.cn/) supervised by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN), [Dr. Cheng Tan](https://chengtan9907.github.io/). She is actively seeking RA or Ph.D. positions starting from now!
 
-Her research broadly lies in computer vision and deep learning. Currently focused on Scalable Post-training methods for Large Language Models.
+Her research broadly lies in computer vision and deep learning. Currently focused on Scalable Post-training methods for Large Language Models, Multi-Agents System and Test-Time Scaling.
 
 **Research Interests**
 
 <div class="research-grid">
   <div class="research-card">
-    <h4>🎯 SFT & RL</h4>
-    <p>Supervised fine-tuning and reinforcement learning for aligning large language models, including reward modeling, RLHF, and preference optimization (DPO/PPO).</p>
+    <h4>🎯 Post-training for LLMs</h4>
+    <p>Supervised fine-tuning and reinforcement learning for aligning large language models, including reward modeling, RLHF, and preference optimization.</p>
   </div>
   <div class="research-card">
-    <h4>🧠 Memory-Agent</h4>
+    <h4>🧠 Multi-Agents System</h4>
     <p>Building long-context and memory-augmented agents capable of retrieving, updating, and reasoning over external knowledge across multi-turn interactions.</p>
   </div>
   <div class="research-card">
-    <h4>⚡ Test-time Scaling</h4>
+    <h4>⚡ Test-Time Scaling</h4>
     <p>Improving model reasoning at inference time via chain-of-thought, self-consistency, best-of-N sampling, and process reward models without additional training.</p>
   </div>
 </div>
@@ -148,7 +148,8 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
   <div class="pub-text">
     <strong>Feature Transformation and Statistical Calibration for Cross-Domain Few-Shot Classification.</strong><br>
     <strong>Jiafan Liu</strong>, Jin Deng, Jinrong Cui, Wei Luo<br>
-    Engineering Applications of Artificial Intelligence (<strong>EAAI</strong>), 2025 &nbsp;<strong>(SCI Q1 Journal)</strong><br>
+    Engineering Applications of Artificial Intelligence (<strong>EAAI</strong>), 2025 &nbsp;<strong>(SCI Q1 Top Journal)</strong><br>
+    <!-- (finished in year 3 of undergraduate study)<br> -->
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625011820?via%3Dihub">Paper</a> |
     <a href="https://github.com/JiaHg/fetac">Code</a>
   </div>
@@ -159,7 +160,8 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
   <div class="pub-text">
     <strong>A Comprehensive Body Part Adaptive Human Motion Style Transfer Method</strong><br>
     <strong>Jiafan Liu</strong><br>
-    [Master Dissertation], 2025<br>
+    Master Dissertation, 2025<br>
+    (Due to unpredictable server issues, finished the dissertation from scratch within one month with a 60-pages paper as the outcome, prepared for submission to a CCF-B conference)<br>
     <a href="https://dr.ntu.edu.sg/entities/publication/55bcfdb5-1276-45bf-aac5-355857bd9807">Paper</a>
   </div>
 </div>
@@ -215,7 +217,7 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
     <strong>Nanyang Technological University, <a href="https://www.ntu.edu.sg/rose">ROSE-Lab</a></strong><br>
     Research Intern &nbsp;|&nbsp; Aug 2024 – March 2025<br>
     Supervisor: Prof. Alex Kot<br>
-    Research Direction: [CV, Motion Generation] Human Motion Style Transfer
+    Research Direction: [CV, Human-Motion] Human Motion Style Transfer
   </div>
 </div>
 
@@ -225,7 +227,7 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
     <strong>Westlake University</strong><br>
     Research Intern &nbsp;|&nbsp; Feb 2024 – June 2024<br>
     Supervisor: Prof. Stan Z. Li, Dr. Cheng Tan<br>
-    Research Direction: [CV, Video Generation] Spatio-temporal Video Prediction
+    Research Direction: [CV, Video] Spatio-temporal Video Prediction
   </div>
 </div>
 
@@ -242,7 +244,7 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
 
 <div class="section-title">Awards</div>
 
-- [2024] Outstanding Thesis Award
-- [2022] National Innovation and Entrepreneurship Program **(Project Leader)**
-- [2022] Outstanding Volunteer
-- [2021 & 2022] SCAU Third-Class Scholarship
+- [2024] Outstanding Thesis Award(Top 1%)
+- [2022] National Innovation and Entrepreneurship Program **(Project Leader, Top 1%)**
+- [2022] Outstanding Volunteer(Top 1%)
+- [2021 & 2022] SCAU Third-Class Scholarship(Top 30%)
