@@ -150,7 +150,7 @@ Outside of work, I am interested in traveling, tasting food and playing ping-pon
 
 <div class="section-title">News</div>
 
-- [2026/07] CrossRouter wins 🏆<strong>FIRST</strong> at [RouterArena](https://routeworks.github.io/leaderboard) Leaderboard. Code can be found [here](https://github.com/JiaHg/CrossRouter).
+- [2026/07] CrossRouter ranks 🏆<strong>FIRST</strong> on [RouterArena](https://routeworks.github.io/leaderboard) Leaderboard. Code can be found [here](https://github.com/JiaHg/CrossRouter).
 - [2025/05] One first author paper on Cross-Domain Few-Shot Learning, is accepted by EAAI 2025<strong>(SCI Q1 Top)</strong>.Code can be found [here](https://github.com/JiaHg/fetac). 
 - [2024/11] One student first author paper on Multimodal Learning, is accepted by ACM BCB 2024<strong>(Oral)</strong>.
 - [2024/06] I have been honored with the Outstanding Thesis Award<strong>(Top 1%)</strong>.
