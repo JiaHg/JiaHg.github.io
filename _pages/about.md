@@ -116,11 +116,19 @@ redirect_from:
 
 </style>
 
-Jiafan Liu received her Master's degree from [Nanyang Technological University, Singapore](https://www.ntu.edu.sg) in June 2025, advised by [Prof. Alex Kot](https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex). She is fortunate to have internships and collaborations with [SIAT, CAS](https://www.siat.ac.cn/) supervised by [Prof. Ruxin Wang](https://people.ucas.edu.cn/~rxwang) and [Westlake University](https://www.westlake.edu.cn/) supervised by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN), [Dr. Cheng Tan](https://chengtan9907.github.io/). She is actively seeking RA or Ph.D. positions starting from now!
+<!-- Jiafan Liu received her Master's degree from [Nanyang Technological University, Singapore](https://www.ntu.edu.sg) in June 2025, advised by [Prof. Alex Kot](https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex). She is fortunate to have internships and collaborations with [SIAT, CAS](https://www.siat.ac.cn/) supervised by [Prof. Ruxin Wang](https://people.ucas.edu.cn/~rxwang) and [Westlake University](https://www.westlake.edu.cn/) supervised by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN), [Dr. Cheng Tan](https://chengtan9907.github.io/). She is actively seeking RA or Ph.D. positions starting from now!
 
-Her research broadly lies in computer vision and deep learning. Currently focused on Scalable Post-training methods for Large Language Models, Multi-Agents System and Test-Time Scaling.
+Her research broadly lies in computer vision and deep learning. Currently focused on Scalable Post-training methods for Large Language Models, Multi-Agents System and Test-Time Scaling. -->
 
-**Research Interests**
+
+Hi, I am an algorithm engineer in Shenzhen focusing on LLMs and Agents especially for the cost-effective and resource-constrained settings. I received my Master degree from [Nanyang Technological University, Singapore](https://www.ntu.edu.sg) advised by [Prof. Alex Kot](https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex). I was fortunate to have internships and collaborations with [SIAT, CAS](https://www.siat.ac.cn/) supervised by [Prof. Ruxin Wang](https://people.ucas.edu.cn/~rxwang) and [Westlake University](https://www.westlake.edu.cn/) supervised by [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN), [Dr. Cheng Tan](https://chengtan9907.github.io/). 
+
+I am a tech enthusiast and always curious about the new things. I hope to develop the impactful projects or conduct meaningful research in the future. Currently I am foucus on open-source projects. <strong>[Feel free to any connections or collaborations](mailto:jiafan001@e.ntu.edu.sg)</strong>.  
+
+Outside of work, I am interested in traveling, tasting food and playing ping-pong. Hope to explore the world more!  
+
+
+<!-- **Research Interests**
 
 <div class="research-grid">
   <div class="research-card">
@@ -138,8 +146,15 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
 </div>
 
 
-<a class="cv-btn" href="/files/JiafanLiu-Resume.pdf" target="_blank" rel="noopener">📄 Download CV</a>
+<a class="cv-btn" href="/files/JiafanLiu-Resume.pdf" target="_blank" rel="noopener">📄 Download CV</a> -->
 
+<div class="section-title">News</div>
+
+- [2026/07] CrossRouter wins 🏆<strong>FIRST</strong> at [RouterArena](https://routeworks.github.io/leaderboard) Leaderboard. Code can be found [here](https://github.com/JiaHg/CrossRouter).
+- [2025/05] One first author paper on Cross-Domain Few-Shot Learning, is accepted by EAAI 2025<strong>(SCI Q1 Top)</strong>.Code can be found [here](https://github.com/JiaHg/fetac). 
+- [2024/11] One student first author paper on Multimodal Learning, is accepted by ACM BCB 2024<strong>(Oral)</strong>.
+- [2024/06] I have been honored with the Outstanding Thesis Award<strong>(Top 1%)</strong>.
+- [2022/05] I have been honored with the National Innovation and Entrepreneurship Program <strong>(Project Leader, Top 1%)</strong>.
 
 <div class="section-title">Publications</div>
 
